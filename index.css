@@ -4,7 +4,7 @@ body {
   font-family: Arial, sans-serif;
   margin: 0;
   color: hsl(0, 0%, 20%);
-  border: 8px solid hsl(120, 60%, 40%);
+  border: 8px solid hsl(226, 84%, 31%);
   height: 100vh;
   box-sizing: border-box;
 }
@@ -44,8 +44,8 @@ input {
 }
 
 button {
-  border: none;
-  background-color: hsl(120, 60%, 40%);
+  border: 2px;
+  background-color: hsl(226, 84%, 31%);
   color: #fff;
   padding: 16px 32px;
   font-weight: 700;
